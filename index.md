@@ -1,3 +1,5 @@
+# AT-Gateway - API Specifications
+
 <!-- START doctoc generated TOC please keep comment here to allow auto update -->
 <!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
 
@@ -29,11 +31,8 @@
     - [3.7.4. Retained Messages](#374-retained-messages)
     - [3.7.5. Empty Messages](#375-empty-messages)
   - [3.8. Message Format](#38-message-format)
-- [4. ATG-API cen-mc-rc](#4-atg-api-cen-mc-rc)
 
 <!-- END doctoc generated TOC please keep comment here to allow auto update -->
-
-# AT-Gateway - API Specifications
 
 # 1. Overview
 
